@@ -1,0 +1,72 @@
+-------------------------------------------
+Batch: 1
+-------------------------------------------
++------------------+----+------+
+|domain            |view|unique|
++------------------+----+------+
+|russian.rt.com    |2   |2     |
+|book-online.com.ua|2   |2     |
+|www.cosmo.ru      |2   |2     |
+|9tv.co.il         |2   |2     |
+|www.afisha.ru     |2   |2     |
+|www.rambler.ru    |2   |2     |
+|autorambler.ru    |1   |1     |
+|magya-online.ru   |1   |1     |
+|ria.ru            |1   |1     |
+|mail.rambler.ru   |1   |1     |
++------------------+----+------+
+
+-------------------------------------------
+Batch: 2
+-------------------------------------------
++-------------------+----+------+
+|domain             |view|unique|
++-------------------+----+------+
+|www.rambler.ru     |5   |5     |
+|russian.rt.com     |3   |3     |
+|www.acmespb.ru     |2   |2     |
+|rubook.org         |2   |2     |
+|minecraft-inside.ru|2   |2     |
+|news.rambler.ru    |2   |2     |
+|www.pressball.by   |2   |2     |
+|www.sportmaster.ru |2   |2     |
+|www.afisha.ru      |2   |2     |
+|9tv.co.il          |2   |2     |
++-------------------+----+------+
+
+-------------------------------------------
+Batch: 3
+-------------------------------------------
++-------------------+----+------+
+|domain             |view|unique|
++-------------------+----+------+
+|news.rambler.ru    |6   |6     |
+|www.rambler.ru     |6   |6     |
+|yandex.ru          |5   |5     |
+|topnonoje.ru       |4   |1     |
+|russian.rt.com     |3   |3     |
+|ria.ru             |3   |3     |
+|www.championat.com |3   |3     |
+|minecraft-inside.ru|3   |3     |
+|www.yaplakal.com   |3   |3     |
+|quiz.rambler.ru    |3   |3     |
++-------------------+----+------+
+
+-------------------------------------------
+Batch: 4
+-------------------------------------------
++---------------------+----+------+
+|domain               |view|unique|
++---------------------+----+------+
+|news.rambler.ru      |8   |8     |
+|www.rambler.ru       |8   |8     |
+|yandex.ru            |6   |6     |
+|lenta.ru             |6   |6     |
+|www.yaplakal.com     |5   |5     |
+|football.kulichki.net|5   |5     |
+|topnonoje.ru         |5   |1     |
+|ria.ru               |4   |4     |
+|www.championat.com   |4   |4     |
+|www.sport-express.ru |4   |4     |
++---------------------+----+------+
+
