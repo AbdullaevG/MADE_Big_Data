@@ -5,3 +5,4 @@
 3. [HW #03: MapReduce-advanced](hw_03/)
 4. [HW #04: Hive](hw_04/)
 5. [HW #05: Spark RDD](hw_05/)
+6. [HW #06: Spark SQL](hw_06/)
