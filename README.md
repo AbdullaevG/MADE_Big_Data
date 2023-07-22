@@ -6,3 +6,4 @@
 4. [HW #04: Hive](hw_04/)
 5. [HW #05: Spark RDD](hw_05/)
 6. [HW #06: Spark SQL](hw_06/)
+7. [HW #07: Spark Advanced](hw_07/)
